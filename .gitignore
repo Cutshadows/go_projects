@@ -30,7 +30,6 @@ go.work
 /Godeps/
 */tmp
 */.air.toml
-*/go.mod
 */go.sum
 
 
